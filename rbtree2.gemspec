@@ -11,7 +11,7 @@ Gem::Specification.new do |gem|
   gem.description   = %q{RB-Trees supported Ruby2 }
   gem.summary       = %q{RB-Trees supported Ruby2 }
   gem.extensions    = ["ext/extconf.rb"]
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/kitak/rbtree2"
   gem.license       = "MIT"
 
   gem.files         = `git ls-files`.split($/)
