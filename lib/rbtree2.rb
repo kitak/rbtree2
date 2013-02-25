@@ -1,5 +1,2 @@
 require "rbtree2/version"
-
-module Rbtree2
-  # Your code goes here...
-end
+require File.expand_path("../../ext/rbtree", __FILE__)
