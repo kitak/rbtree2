@@ -21,6 +21,9 @@ Or install it yourself as:
 
 ```ruby
 require 'rbtree2'
+
+# same usage as rbtree gem
+tree = RBTree.new
 ```
 
 ## Contributing
