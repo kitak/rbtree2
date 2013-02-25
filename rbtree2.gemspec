@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["kei.kita2501@gmail.com"]
   gem.description   = %q{RB-Trees supported Ruby2 }
   gem.summary       = %q{RB-Trees supported Ruby2 }
-  gem.extentions    = ["ext/extconf.rb"]
+  gem.extensions    = ["ext/extconf.rb"]
   gem.homepage      = ""
   gem.license       = "MIT"
 
