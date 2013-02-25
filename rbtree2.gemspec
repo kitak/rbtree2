@@ -8,8 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = Rbtree2::VERSION
   gem.authors       = ["Keisuke KITA"]
   gem.email         = ["kei.kita2501@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{RB-Trees supported Ruby2 }
+  gem.summary       = %q{RB-Trees supported Ruby2 }
+  gem.extentions    = ["ext/extconf.rb"]
   gem.homepage      = ""
   gem.license       = "MIT"
 
