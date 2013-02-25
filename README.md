@@ -1,6 +1,7 @@
-# Rbtree2
+# rbtree2
 
-TODO: Write a gem description
+RB-Trees supported Ruby2 - originally by OZAWA Takuma  
+[http://www.geocities.co.jp/SiliconValley-PaloAlto/3388/rbtree/README.html](http://www.geocities.co.jp/SiliconValley-PaloAlto/3388/rbtree/README.html)
 
 ## Installation
 
@@ -18,7 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require 'rbtree2'
+```
 
 ## Contributing
 
